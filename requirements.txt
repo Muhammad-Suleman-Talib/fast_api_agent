@@ -1,0 +1,7 @@
+faiss-cpu==1.11.0
+numpy>=1.26
+pandas
+requests
+fastapi
+uvicorn[standard]
+python-dotenv
